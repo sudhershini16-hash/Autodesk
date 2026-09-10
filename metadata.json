@@ -1,0 +1,7 @@
+{
+  "name": "Smart City Site Planner",
+  "description": "Intelligent Urban Planning & 3D Site Design platform featuring interactive 3D site generation, zoning, environmental analysis, sustainability metrics, scenario modeling, and AI advisory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
